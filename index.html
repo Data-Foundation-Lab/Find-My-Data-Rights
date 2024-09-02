@@ -3,91 +3,72 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coming Soon - Find My Data Rights</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            font-family: 'Roboto', sans-serif;
-            height: 100%;
-            background-color: #f5f5f5;
-        }
-        .page-wrapper {
-            display: flex;
-            flex-direction: column;
-            min-height: 100vh;
-        }
-        .content-wrapper {
-            flex-grow: 1;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 20px;
-        }
-        .container {
-            max-width: 600px;
-            width: 100%;
-            text-align: center;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .logo {
-            width: 350px;
-            height: auto;
-            display: block;
-            margin-left: 20px;
-        }
-        h1 {
-            font-size: 2.5em;
-            color: #2c3e50;
-            margin-bottom: 20px;
-        }
-        p {
-            font-size: 1.2em;
-            color: #34495e;
-            margin-bottom: 30px;
-        }
-        .social-links a {
-            color: #3D9AAC;
-            font-size: 2em;
-            margin: 0 10px;
-            text-decoration: none;
-        }
-        .powered-by {
-            position: fixed;
-            bottom: 10px;
-            right: 10px;
-            font-size: 1rem;
-            color: #7f8c8d;
-        }
-        @media (max-width: 768px) {
-            .logo {
-                width: 250px;
-            }
-            h1 {
-                font-size: 2em;
-            }
-            p {
-                font-size: 1em;
-            }
-        }
-    </style>
+
+    <title>Find My Data Rights</title>
+
+    <link rel="stylesheet" type="text/css" href="css/common.css"/>
+    <link rel="stylesheet" type="text/css" href="css/home.css"/>
 </head>
+
 <body>
     <div class="page-wrapper">
-        <div class="content-wrapper">
+
+        <header>
+            <nav class="desktop-nav">
+                <a href="index.html">Home</a>
+                <a href="resources.html">Resources</a>
+                <a href="about.html">What Is This?</a>
+            </nav>
+            <button class="menu-btn" onclick="toggleMenu()">MENU</button>
+        </header>
+
+        <div class="center-wrapper">
             <div class="container">
-                <img src="logo_word_transparent.svg" alt="Find My Data Rights" class="logo">
-                <h1>Coming Soon</h1>
-                <p>We're working hard to bring you the best way to find and understand your data privacy rights. Stay tuned!</p>
-                <div class="social-links">
-                    <a href="https://www.instagram.com/findmydatarights/" title="Instagram"><i class="fab fa-instagram"></i></a>
+                <div class="content-wrapper">
+                    <div class="logo-container">
+                        <img src="logo_word_transparent.svg" alt="Data Privacy Rights Search" class="logo">
+                    </div>
+                    <div class="disclaimer-container">
+                        <p class="disclaimer">This application is currently in beta.</p>
+                    </div>
+                    <div class="search-container">
+                        <input type="text" id="search-input" placeholder="Search your town, suburb, or country">
+                        <button class="clear-search" id="clear-search" onclick="clearSearch()">&times;</button>
+                        <div class="loader" id="search-loader"></div>
+                        <div id="search-results"></div>
+                    </div>
+                    <p id="rights-info" class="rights-info"></p>
+                    <div class="rights-container" id="rights-container"></div>
                 </div>
             </div>
+        </div> 
+           
+    </div>
+
+    <div id="rightModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <h2 id="modalTitle"></h2>
+            <p id="modalDescription"></p>
+            <p id="modalTimeframe"></p>
         </div>
     </div>
-    <div class="powered-by">Powered by <a href="https://dflb.org" style="text-decoration: none; color: black;"><b><span style="color: #1e88e5;">DF</span>Lab</b></a></div>
+
+    <div id="mobile-menu">
+        <button class="close-btn" onclick="toggleMenu()">CLOSE</button>
+        <div class="mobile-menu-content">
+            <a href="index.html">Home</a>
+            <a href="resources.html">Resources</a>
+            <a href="about.html">What Is This?</a>
+        </div>
+    </div>
+
+    <div id="mobile-menu-overlay"></div>
+    <div class="powered-by"><a href="https://www.dflb.org" style="text-decoration: none; color: black;">Powered by <b style="color:black;"><span style="color: #1e88e5;">DF</span>Lab</b></a></div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-sha256/0.9.0/sha256.min.js"></script>
+
+    <script type='text/javascript' src='js/common.js'></script>
+    <script type='text/javascript' src='js/home.js'></script>
 </body>
 </html>

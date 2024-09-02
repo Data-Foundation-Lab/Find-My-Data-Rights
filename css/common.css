@@ -1,0 +1,138 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    background-color: #f5f5f5;
+    overflow: hidden;
+}
+
+header {
+    background-color: #212121;
+    color: white;
+    padding: 10px 20px;
+    height: 35px;
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.center-wrapper {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.desktop-nav {
+    display: flex;
+    justify-content: center;
+}
+
+.desktop-nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    transition: opacity 0.3s ease;
+}
+
+.desktop-nav a:hover {
+    opacity: 0.8;
+}
+
+.menu-btn {
+    display: none;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    position: absolute;
+    right: 20px;
+}
+
+#mobile-menu {
+    position: fixed;
+    top: 0;
+    right: -250px;
+    width: 250px;
+    height: 100%;
+    background-color: #171717;
+    transition: right 0.3s ease-in-out;
+    z-index: 1001 !important;;
+}
+#mobile-menu.open {
+    right: 0;
+}
+
+body.menu-open {
+    overflow: hidden;
+}
+
+#mobile-menu-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000 !important;;
+    display: none;
+}
+
+#mobile-menu-overlay.active {
+    display: block;
+}
+
+.mobile-menu-content {
+    padding: 20px;
+    color: white;
+}
+
+.mobile-menu-content a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    transition: opacity 0.3s ease;
+}
+
+.mobile-menu-content a:hover {
+    opacity: 0.8;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.powered-by {
+    font-size: 1rem;
+    color: #7f8c8d;
+}
+
+@media (max-width: 768px) {
+    .desktop-nav {
+        display: none;
+    }
+    .menu-btn {
+        display: block;
+    }
+}

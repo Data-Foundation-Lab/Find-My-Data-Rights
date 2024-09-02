@@ -1,0 +1,1750 @@
+{
+    "United States": 
+    {
+        "Laws": 
+        {
+            "Federal": 
+            {
+                "Description": "The United States does not have a comprehensive federal data privacy law. Instead, data privacy is regulated through sector-specific laws such as the Health Insurance Portability and Accountability Act (HIPAA) and the Gramm-Leach-Bliley Act (GLBA).",
+                "Jurisdiction": "Federal",
+                "Link": "https://www.ftc.gov/privacy-and-security"
+            },
+            "California Consumer Privacy Act (CCPA)": 
+            {
+                "Description": "A state statute intended to enhance privacy rights and consumer protection for residents of California.",
+                "Jurisdiction": "California",
+                "Link": "https://oag.ca.gov/privacy/ccpa"
+            },
+            "Virginia Consumer Data Protection Act (VCDPA)": 
+            {
+                "Description": "A state law that provides Virginia residents with privacy rights and protections concerning their personal data.",
+                "Jurisdiction": "Virginia",
+                "Link": "https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint/privacy-protection"
+            },
+            "Colorado Privacy Act (CPA)": 
+            {
+                "Description": "A comprehensive data privacy law that grants Colorado residents certain rights over their personal data.",
+                "Jurisdiction": "Colorado",
+                "Link": "https://coag.gov/resources/colorado-privacy-act/"
+            },
+            "New York SHIELD Act": 
+            {
+                "Description": "A state law that enhances the protection of personal data of New York residents, including provisions for data security and breach notification.",
+                "Jurisdiction": "New York",
+                "Link": "https://ag.ny.gov/internet/data-breach"
+            },
+            "Texas Data Privacy and Security Act (TDPSA)":
+            {
+                "Description": "A state law designed to protect the privacy and security of personal data for Texas residents, granting them specific rights over their data and imposing obligations on businesses handling personal information.",
+                "Jurisdiction": "Texas",
+                "Link": "https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint/consumer-privacy-rights/texas-data-privacy-and-security-act"
+            },
+            "Montana Consumer Data Privacy Act (MTCDPA)":
+            {
+                "Description": "A state law that establishes privacy rights for Montana residents and imposes obligations on businesses that collect and process personal data.",
+                "Jurisdiction": "Montana",
+                "Link": "https://leg.mt.gov/bills/2023/billpdf/SB0384.pdf"
+            },
+            "Florida Digital Bill of Rights": 
+            {
+                "Description": "A state law that grants Florida residents specific rights over their personal data and imposes obligations on businesses that handle such data, including the right to opt out of data sales.",
+                "Jurisdiction": "Florida",
+                "Link": "https://www.flsenate.gov/Session/Bill/2023/262"
+            },
+            "Hawaii Consumer Privacy Protection Act": 
+            {
+                "Description": "A state law designed to provide Hawaii residents with rights over their personal data and to establish responsibilities for businesses in managing and securing this data.",
+                "Jurisdiction": "Hawaii",
+                "Link": "https://www.capitol.hawaii.gov/session2023/bills/SB974_.HTM"
+            },
+            "Ohio Personal Privacy Act (OPPA)": 
+            {
+                "Description": "A state law that provides Ohio residents with rights over their personal data and imposes obligations on businesses to protect and manage that data responsibly.",
+                "Jurisdiction": "Ohio",
+                "Link": "https://www.legislature.ohio.gov/legislation/legislation-summary?id=GA134-HB376"
+            },
+            "Massachusetts Data Security Law": 
+            {
+                "Description": "A state law that requires entities to safeguard personal information and mandates breach notification to affected residents.",
+                "Jurisdiction": "Massachusetts",
+                "Link": "https://www.mass.gov/doc/201-cmr-1700-standards-for-the-protection-of-personal-information-of-residents-of-the/download"
+            },
+            "Pennsylvania Breach of Personal Information Notification Act": 
+            {
+                "Description": "A state law that requires entities to notify individuals of any breach involving their personal data.",
+                "Jurisdiction": "Pennsylvania",
+                "Link": "https://www.legis.state.pa.us/cfdocs/Legis/LI/uconsCheck.cfm?txtType=HTM&yr=2005&sessInd=0&smthLwInd=0&act=94"
+            },
+            "New Jersey Identity Theft Prevention Act": 
+            {
+                "Description": "A state law that includes provisions for safeguarding personal information, mandates breach notification, and aims to prevent identity theft.",
+                "Jurisdiction": "New Jersey",
+                "Link": "https://www.njleg.state.nj.us/Bills/2018/A3500/3245_I1.HTM"
+            },
+            "Michigan Identity Theft Protection Act": 
+            {
+                "Description": "A state law that requires businesses to protect personal information and notify Michigan residents in the event of a data breach.",
+                "Jurisdiction": "Michigan",
+                "Link": "https://www.legislature.mi.gov/documents/2004-2005/publicact/htm/2004-PA-0452.htm"
+            },
+            "North Carolina Identity Theft Protection Act": 
+            {
+                "Description": "A state law that protects residents from identity theft by requiring businesses to safeguard personal information and notify individuals in case of a data breach.",
+                "Jurisdiction": "North Carolina",
+                "Link": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_75/Article_2A.html"
+            },
+            "Illinois Biometric Information Privacy Act (BIPA)": 
+            {
+                "Description": "A state law that regulates the collection, use, and storage of biometric information and provides specific rights to Illinois residents regarding their biometric data.",
+                "Jurisdiction": "Illinois",
+                "Link": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57"
+            },
+            "Maryland Personal Information Protection Act (PIPA)": 
+            {
+                "Description": "A state law that requires businesses to protect personal information and notify Maryland residents in the event of a data breach.",
+                "Jurisdiction": "Maryland",
+                "Link": "https://www.marylandattorneygeneral.gov/Pages/IdentityTheft/pipastat.aspx"
+            },
+            "Indiana Data Security Breach Notification Law": 
+            {
+                "Description": "A state law that requires entities to notify Indiana residents of any data breach involving their personal information.",
+                "Jurisdiction": "Indiana",
+                "Link": "https://www.in.gov/legislative/ic/code/title24/ar4.9/ch3.html"
+            },
+            "Washington Privacy Act (WPA)": 
+            {
+                "Description": "A comprehensive data privacy law that provides Washington residents with rights over their personal data and imposes obligations on businesses handling such data.",
+                "Jurisdiction": "Washington",
+                "Link": "https://www.atg.wa.gov/privacy"
+            },
+            "Minnesota Data Practices Act": 
+            {
+                "Description": "A state law that governs the collection, storage, use, and dissemination of personal data by public and private entities in Minnesota.",
+                "Jurisdiction": "Minnesota",
+                "Link": "https://www.revisor.mn.gov/statutes/cite/13"
+            },
+            "Utah Consumer Privacy Act (UCPA)": 
+            {
+                "Description": "A state law that provides Utah residents with rights over their personal data, including the right to opt-out of the sale of their data and the right to access, correct, or delete their data.",
+                "Jurisdiction": "Utah",
+                "Link": "https://le.utah.gov/~2022/bills/static/HB0345.html"
+            },
+            "Alabama Data Breach Notification Act": 
+            {
+                "Description": "A state law that requires entities to notify Alabama residents if their personal information is compromised in a data breach.",
+                "Jurisdiction": "Alabama",
+                "Link": "https://www.ago.state.al.us/Documents/File-Data-Breach-Notification-Act.pdf"
+            },
+            "Oregon Consumer Identity Theft Protection Act": 
+            {
+                "Description": "A state law that requires businesses to protect personal information and notify Oregon residents in the event of a data breach.",
+                "Jurisdiction": "Oregon",
+                "Link": "https://www.oregonlaws.org/ors/646A.600"
+            },
+            "Tennessee Identity Theft Deterrence Act": 
+            {
+                "Description": "A state law aimed at preventing identity theft by requiring businesses to safeguard personal information and notify Tennessee residents in case of a data breach.",
+                "Jurisdiction": "Tennessee",
+                "Link": "https://www.tn.gov/commerce/consumer-resources/identity-theft-resources.html"
+            },
+            "Missouri Data Breach Notification Law": 
+            {
+                "Description": "A state law that requires businesses to notify Missouri residents if their personal information is compromised in a data breach.",
+                "Jurisdiction": "Missouri",
+                "Link": "https://revisor.mo.gov/main/OneSection.aspx?section=407.1500"
+            },
+            "Maine Notice of Risk to Personal Data Act": 
+            {
+                "Description": "A state law that requires businesses to notify Maine residents if their personal data is compromised in a data breach.",
+                "Jurisdiction": "Maine",
+                "Link": "https://legislature.maine.gov/statutes/10/title10sec1347.html"
+            },
+            "New Mexico Data Breach Notification Act": 
+            {
+                "Description": "A state law that requires businesses to notify New Mexico residents if their personal data is compromised in a data breach.",
+                "Jurisdiction": "New Mexico",
+                "Link": "https://www.nmag.gov/data-breach-notification.aspx"
+            },
+            "Connecticut Personal Data Privacy and Online Monitoring Act": 
+            {
+                "Description": "A state law that governs the collection, use, and protection of personal data by businesses and requires breach notifications to Connecticut residents.",
+                "Jurisdiction": "Connecticut",
+                "Link": "https://www.cga.ct.gov/2022/ACT/PA/PDF/2022PA-00015-R00SB-00006-PA.PDF"
+            },
+            "Louisiana Database Security Breach Notification Law": 
+            {
+                "Description": "A state law that mandates businesses to notify Louisiana residents in the event of a data breach involving their personal information.",
+                "Jurisdiction": "Louisiana",
+                "Link": "https://www.legis.la.gov/Legis/Law.aspx?d=322066"
+            },
+            "Kentucky Data Breach Notification Law": 
+            {
+                "Description": "A state law that requires businesses to notify Kentucky residents if their personal information is compromised in a data breach.",
+                "Jurisdiction": "Kentucky",
+                "Link": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47273"
+            },
+            "Kansas Consumer Protection Act": 
+            {
+                "Description": "A state law that provides protections for Kansas consumers, including requirements for data breach notifications.",
+                "Jurisdiction": "Kansas",
+                "Link": "http://www.kslegislature.org/li_2014/b2013_14/statute/050_000_0000_chapter/050_006_0000_article/050_006_0002_section/050_006_0002_k/"
+            },
+            "Wisconsin Data Breach Notification Law": 
+            {
+                "Description": "A state law that mandates businesses to notify Wisconsin residents if their personal information is compromised in a data breach.",
+                "Jurisdiction": "Wisconsin",
+                "Link": "https://docs.legis.wisconsin.gov/statutes/statutes/134/98"
+            },
+            "New Hampshire Consumer Protection Act": 
+            {
+                "Description": "A state law that provides consumer protections, including data breach notification requirements for businesses that handle personal information.",
+                "Jurisdiction": "New Hampshire",
+                "Link": "https://www.doj.nh.gov/consumer/sourcebook/consumer-protection-act.htm"
+            },
+            "Nevada Privacy of Information Collected on the Internet from Consumers Act": 
+            {
+                "Description": "A state law that grants Nevada residents the right to opt-out of the sale of their personal information collected online and imposes data protection requirements on businesses.",
+                "Jurisdiction": "Nevada",
+                "Link": "https://www.leg.state.nv.us/NRS/NRS-603A.html"
+            },
+            "Oklahoma Consumer Protection Act": 
+            {
+                "Description": "A state law that provides consumer protections, including requirements for data breach notifications to Oklahoma residents.",
+                "Jurisdiction": "Oklahoma",
+                "Link": "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=84888"
+            },
+            "Iowa Personal Information Security Breach Protection Act": 
+            {
+                "Description": "A state law that mandates businesses to notify Iowa residents if their personal data is compromised in a security breach.",
+                "Jurisdiction": "Iowa",
+                "Link": "https://www.legis.iowa.gov/docs/code/715C.pdf"
+            },
+            "Wyoming Data Security Breach Notification Act": 
+            {
+                "Description": "A state law that requires businesses to notify Wyoming residents if their personal information is compromised in a data breach.",
+                "Jurisdiction": "Wyoming",
+                "Link": "https://wyoleg.gov/statutes/compress/title40.pdf"
+            },
+            "South Carolina Financial Identity Fraud and Identity Theft Protection Act": 
+            {
+                "Description": "A state law aimed at preventing identity theft and financial fraud by requiring businesses to protect personal information and notify South Carolina residents in the event of a data breach.",
+                "Jurisdiction": "South Carolina",
+                "Link": "https://www.scstatehouse.gov/code/t37c020.php"
+            },
+            "Arkansas Personal Information Protection Act": 
+            {
+                "Description": "A state law that requires businesses to notify Arkansas residents if their personal information is compromised in a data breach.",
+                "Jurisdiction": "Arkansas",
+                "Link": "https://law.justia.com/codes/arkansas/2019/title-4/subtitle-7/chapter-110/subchapter-1/"
+            },
+            "Mississippi Data Breach Notification Law": 
+            {
+                "Description": "A state law that mandates businesses to notify Mississippi residents if their personal information is compromised in a data breach.",
+                "Jurisdiction": "Mississippi",
+                "Link": "https://law.justia.com/codes/mississippi/2019/title-75/chapter-24-29/"
+            },
+            "North Dakota Data Breach Notification Law": 
+            {
+                "Description": "A state law that requires businesses to notify North Dakota residents if their personal information is compromised in a data breach.",
+                "Jurisdiction": "North Dakota",
+                "Link": "https://www.legis.nd.gov/cencode/t51c30.pdf"
+            },
+            "Nebraska Financial Data Protection and Consumer Notification of Data Security Breach Act": 
+            {
+                "Description": "A state law that mandates businesses to protect personal financial data and notify Nebraska residents in the event of a data breach.",
+                "Jurisdiction": "Nebraska",
+                "Link": "https://nebraskalegislature.gov/laws/statutes.php?statute=87-801"
+            },
+            "West Virginia Consumer Credit and Protection Act": 
+            {
+                "Description": "A state law that includes provisions for consumer protection, including requirements for data breach notifications to West Virginia residents.",
+                "Jurisdiction": "West Virginia",
+                "Link": "http://www.wvlegislature.gov/wvcode/chapterentire.cfm?chap=46a"
+            },
+            "Delaware Online Privacy and Protection Act": 
+            {
+                "Description": "A state law that requires businesses to protect the personal information of Delaware residents and mandates breach notification.",
+                "Jurisdiction": "Delaware",
+                "Link": "https://delcode.delaware.gov/title6/c012c/index.html"
+            },
+            "Vermont Data Broker Regulation": 
+            {
+                "Description": "A state law that regulates data brokers, requiring them to protect the personal information they collect and to notify Vermont residents in the event of a data breach.",
+                "Jurisdiction": "Vermont",
+                "Link": "https://legislature.vermont.gov/statutes/section/09/062/02444"
+            },
+            "Rhode Island Identity Theft Protection Act": 
+            {
+                "Description": "A state law that mandates businesses to notify Rhode Island residents if their personal information is compromised in a data breach.",
+                "Jurisdiction": "Rhode Island",
+                "Link": "http://webserver.rilin.state.ri.us/Statutes/TITLE11/11-49.3/INDEX.HTM"
+            },
+            "South Dakota Data Breach Notification Law": 
+            {
+                "Description": "A state law that requires businesses to notify South Dakota residents if their personal information is compromised in a data breach.",
+                "Jurisdiction": "South Dakota",
+                "Link": "https://sdlegislature.gov/Statutes/Codified_Laws/2052862"
+            }
+        },
+        "Authorities": 
+        {
+            "Federal Trade Commission (FTC)": 
+            {
+                "Description": "The primary federal agency responsible for enforcing privacy-related laws and protecting consumers.",
+                "Link": "https://www.ftc.gov/"
+            },
+            "State Attorneys General": 
+            {
+                "Description": "State-level authorities responsible for enforcing state-specific privacy laws.",
+                "Link": "https://www.naag.org/"
+            }
+        },
+        "Resources":
+        {
+            
+        },
+        "Regions": 
+        {
+            "California": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Opt-Out of Sale",
+                        "Description": "The right to opt-out of the sale of personal information to third parties.",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Non-Discrimination",
+                        "Description": "The right to not be discriminated against for exercising your privacy rights.",
+                        "Timeframe": "Immediate"
+                    }
+                ],
+                "Laws": ["California Consumer Privacy Act (CCPA)"],
+                "Authorities": ["Federal Trade Commission (FTC)", "California Attorney General"]
+            },
+            "Virginia": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Object to Targeted Advertising",
+                        "Description": "The right to opt-out of targeted advertising based on personal data.",
+                        "Timeframe": "Immediate"
+                    }
+                ],
+                "Laws": ["Virginia Consumer Data Protection Act (VCDPA)"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Virginia Attorney General"]
+            },
+            "Colorado": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Object to Targeted Advertising",
+                        "Description": "The right to opt-out of targeted advertising based on personal data.",
+                        "Timeframe": "Immediate"
+                    }
+                ],
+                "Laws": ["Colorado Privacy Act (CPA)"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Colorado Attorney General"]
+            },
+            "New York": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["New York SHIELD Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "New York Attorney General"]
+            },
+            "Texas": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Opt-Out of Sale",
+                        "Description": "The right to opt-out of the sale of personal information to third parties.",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Non-Discrimination",
+                        "Description": "The right to not be discriminated against for exercising your privacy rights.",
+                        "Timeframe": "Immediate"
+                    }
+                ],
+                "Laws": ["Texas Data Privacy and Security Act (TDPSA)"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Texas Attorney General"]
+            },
+            "Montana": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Opt-Out of Sale",
+                        "Description": "The right to opt-out of the sale of personal information to third parties.",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Non-Discrimination",
+                        "Description": "The right to not be discriminated against for exercising your privacy rights.",
+                        "Timeframe": "Immediate"
+                    }
+                ],
+                "Laws": ["Montana Consumer Data Privacy Act (MTCDPA)"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Montana Attorney General"]
+            },
+            "Florida": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Opt-Out of Sale",
+                        "Description": "The right to opt-out of the sale of personal information to third parties.",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Non-Discrimination",
+                        "Description": "The right to not be discriminated against for exercising your privacy rights.",
+                        "Timeframe": "Immediate"
+                    }
+                ],
+                "Laws": ["Florida Digital Bill of Rights"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Florida Attorney General"]
+            },
+            "Alaska": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["N/A"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Alaska Attorney General"]
+            },
+            "Idaho": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["N/A"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Idaho Attorney General"]
+            },
+            "Hawaii": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Hawaii Consumer Privacy Protection Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Hawaii Attorney General"]
+            },
+            "Ohio": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Opt-Out of Sale",
+                        "Description": "The right to opt-out of the sale of personal information to third parties.",
+                        "Timeframe": "Immediate"
+                    }
+                ],
+                "Laws": ["Ohio Personal Privacy Act (OPPA)"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Ohio Attorney General"]
+            },
+            "Arizona": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["N/A"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Arizona Attorney General"]
+            },
+            "Georgia": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["N/A"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Georgia Attorney General"]
+            },
+            "Massachusetts": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Massachusetts Data Security Law"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Massachusetts Attorney General"]
+            },
+            "Pennsylvania": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Pennsylvania Breach of Personal Information Notification Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Pennsylvania Attorney General"]
+            },
+            "New Jersey": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["New Jersey Identity Theft Prevention Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "New Jersey Attorney General"]
+            },
+            "Michigan": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Michigan Identity Theft Protection Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Michigan Attorney General"]
+            },
+            "North Carolina": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["North Carolina Identity Theft Protection Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "North Carolina Attorney General"]
+            },
+            "Illinois": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    },
+                    {
+                        "Right": "Right to Biometric Information Protection",
+                        "Description": "The right to control biometric data collection, use, and storage.",
+                        "Timeframe": "Immediate"
+                    }
+                ],
+                "Laws": ["Illinois Biometric Information Privacy Act (BIPA)"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Illinois Attorney General"]
+            },
+            "Maryland": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Maryland Personal Information Protection Act (PIPA)"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Maryland Attorney General"]
+            },
+            "Indiana": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Indiana Data Security Breach Notification Law"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Indiana Attorney General"]
+            },
+            "Washington": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    },
+                    {
+                        "Right": "Right to Opt-Out of Sale",
+                        "Description": "The right to opt-out of the sale of personal information to third parties.",
+                        "Timeframe": "Immediate"
+                    }
+                ],
+                "Laws": ["Washington Privacy Act (WPA)"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Washington Attorney General"]
+            },
+            "Minnesota": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Minnesota Data Practices Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Minnesota Attorney General"]
+            },
+            "Utah": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Opt-Out of Sale",
+                        "Description": "The right to opt-out of the sale of personal information to third parties.",
+                        "Timeframe": "Immediate"
+                    }
+                ],
+                "Laws": ["Utah Consumer Privacy Act (UCPA)"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Utah Attorney General"]
+            },
+            "Alabama": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Alabama Data Breach Notification Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Alabama Attorney General"]
+            },
+            "Oregon": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Oregon Consumer Identity Theft Protection Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Oregon Attorney General"]
+            },
+            "Tennessee": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Tennessee Identity Theft Deterrence Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Tennessee Attorney General"]
+            },
+            "Missouri": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Missouri Data Breach Notification Law"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Missouri Attorney General"]
+            },
+            "Maine": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Maine Notice of Risk to Personal Data Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Maine Attorney General"]
+            },
+            "New Mexico": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["New Mexico Data Breach Notification Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "New Mexico Attorney General"]
+            },
+            "Connecticut": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Connecticut Personal Data Privacy and Online Monitoring Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Connecticut Attorney General"]
+            },
+            "Louisiana": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Louisiana Database Security Breach Notification Law"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Louisiana Attorney General"]
+            },
+            "Kentucky": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Kentucky Data Breach Notification Law"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Kentucky Attorney General"]
+            },
+            "Kansas": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Kansas Consumer Protection Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Kansas Attorney General"]
+            },
+            "Wisconsin": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Wisconsin Data Breach Notification Law"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Wisconsin Attorney General"]
+            },
+            "New Hampshire": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["New Hampshire Consumer Protection Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "New Hampshire Attorney General"]
+            },
+            "Nevada": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    },
+                    {
+                        "Right": "Right to Opt-Out of Sale",
+                        "Description": "The right to opt-out of the sale of personal information to third parties.",
+                        "Timeframe": "Immediate"
+                    }
+                ],
+                "Laws": ["Nevada Privacy of Information Collected on the Internet from Consumers Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Nevada Attorney General"]
+            },
+            "Oklahoma": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Oklahoma Consumer Protection Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Oklahoma Attorney General"]
+            },
+            "Iowa": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Iowa Personal Information Security Breach Protection Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Iowa Attorney General"]
+            },
+            "Wyoming": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Wyoming Data Security Breach Notification Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Wyoming Attorney General"]
+            },
+            "South Carolina": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["South Carolina Financial Identity Fraud and Identity Theft Protection Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "South Carolina Attorney General"]
+            },
+            "Arkansas": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Arkansas Personal Information Protection Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Arkansas Attorney General"]
+            },
+            "Mississippi": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Mississippi Data Breach Notification Law"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Mississippi Attorney General"]
+            },
+            "North Dakota": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["North Dakota Data Breach Notification Law"],
+                "Authorities": ["Federal Trade Commission (FTC)", "North Dakota Attorney General"]
+            },
+            "Nebraska": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Nebraska Financial Data Protection and Consumer Notification of Data Security Breach Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Nebraska Attorney General"]
+            },
+            "West Virginia": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["West Virginia Consumer Credit and Protection Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "West Virginia Attorney General"]
+            },
+            "Delaware": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Delaware Online Privacy and Protection Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Delaware Attorney General"]
+            },
+            "Vermont": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Vermont Data Broker Regulation"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Vermont Attorney General"]
+            },
+            "Rhode Island": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "45 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["Rhode Island Identity Theft Protection Act"],
+                "Authorities": ["Federal Trade Commission (FTC)", "Rhode Island Attorney General"]
+            },
+            "South Dakota": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    },
+                    {
+                        "Right": "Right to Notification",
+                        "Description": "The right to be notified of a data breach involving your personal data.",
+                        "Timeframe": "Immediate upon breach"
+                    }
+                ],
+                "Laws": ["South Dakota Data Breach Notification Law"],
+                "Authorities": ["Federal Trade Commission (FTC)", "South Dakota Attorney General"]
+            }
+        }
+    }
+}

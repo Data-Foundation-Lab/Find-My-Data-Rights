@@ -1,0 +1,395 @@
+{
+    "Austria": 
+    {
+        "Laws": 
+        {
+            "General Data Protection Regulation (GDPR)": 
+            {
+                "Description": "A regulation in EU law on data protection and privacy for all individuals within the European Union and the European Economic Area. It also addresses the transfer of personal data outside the EU and EEA.",
+                "Jurisdiction": "European Union",
+                "Link": "https://eur-lex.europa.eu/eli/reg/2016/679/oj"
+            },
+            "Austrian Data Protection Act": 
+            {
+                "Description": "The Austrian Data Protection Act (Datenschutzgesetz) supplements the GDPR with national provisions, clarifying certain aspects such as the roles of data protection officers and the scope of criminal sanctions.",
+                "Jurisdiction": "Austria",
+                "Link": "https://www.ris.bka.gv.at/Dokumente/Erv/ERV_1999_1_165/ERV_1999_1_165.html"
+            }
+        },
+        "Authorities": 
+        {
+            "Austrian Data Protection Authority (Datenschutzbehörde)": 
+            {
+                "Description": "Responsible for enforcing data protection laws and handling complaints related to data privacy.",
+                "Link": "https://www.dsb.gv.at/"
+            }
+        },
+        "Resources":
+        {
+            
+        },
+        "Regions": 
+        {
+            "Burgenland": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of data collection"
+                    }
+                ],
+                "Laws": ["General Data Protection Regulation (GDPR)", "Austrian Data Protection Act"],
+                "Authorities": ["Austrian Data Protection Authority (Datenschutzbehörde)"]
+            },
+            "Carinthia": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of data collection"
+                    }
+                ],
+                "Laws": ["General Data Protection Regulation (GDPR)", "Austrian Data Protection Act"],
+                "Authorities": ["Austrian Data Protection Authority (Datenschutzbehörde)"]
+            },
+            "Lower Austria": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of data collection"
+                    }
+                ],
+                "Laws": ["General Data Protection Regulation (GDPR)", "Austrian Data Protection Act"],
+                "Authorities": ["Austrian Data Protection Authority (Datenschutzbehörde)"]
+            },
+            "Upper Austria": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of data collection"
+                    }
+                ],
+                "Laws": ["General Data Protection Regulation (GDPR)", "Austrian Data Protection Act"],
+                "Authorities": ["Austrian Data Protection Authority (Datenschutzbehörde)"]
+            },
+            "Salzburg": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of data collection"
+                    }
+                ],
+                "Laws": ["General Data Protection Regulation (GDPR)", "Austrian Data Protection Act"],
+                "Authorities": ["Austrian Data Protection Authority (Datenschutzbehörde)"]
+            },
+            "Styria": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of data collection"
+                    }
+                ],
+                "Laws": ["General Data Protection Regulation (GDPR)", "Austrian Data Protection Act"],
+                "Authorities": ["Austrian Data Protection Authority (Datenschutzbehörde)"]
+            },
+            "Tyrol": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of data collection"
+                    }
+                ],
+                "Laws": ["General Data Protection Regulation (GDPR)", "Austrian Data Protection Act"],
+                "Authorities": ["Austrian Data Protection Authority (Datenschutzbehörde)"]
+            },
+            "Vorarlberg": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of data collection"
+                    }
+                ],
+                "Laws": ["General Data Protection Regulation (GDPR)", "Austrian Data Protection Act"],
+                "Authorities": ["Austrian Data Protection Authority (Datenschutzbehörde)"]
+            },
+            "Vienna": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Erasure",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "One month"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of data collection"
+                    }
+                ],
+                "Laws": ["General Data Protection Regulation (GDPR)", "Austrian Data Protection Act"],
+                "Authorities": ["Austrian Data Protection Authority (Datenschutzbehörde)"]
+            }
+        }
+    }
+}

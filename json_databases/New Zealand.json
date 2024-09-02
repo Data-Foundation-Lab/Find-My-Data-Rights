@@ -1,0 +1,269 @@
+{
+    "New Zealand": 
+    {
+        "Laws": 
+        {
+            "Privacy Act 2020": 
+            {
+                "Description": "...",
+                "Jurisdiction": "National",
+                "Link": "https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23301.html"
+            }
+        },
+        "Authorities": 
+        {
+            "Office of the Privacy Commissioner (OPC)": 
+            {
+                "Description": "...",
+                "Link": "https://www.privacy.org.nz/"
+            }
+        },
+        "Resources":
+        {
+            
+        },
+        "Regions": 
+        {
+            "Auckland": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "20 working days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Privacy Act 2020"],
+                "Authorities": ["Office of the Privacy Commissioner (OPC)"]
+            },
+            "Wellington": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "20 working days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Privacy Act 2020"],
+                "Authorities": ["Office of the Privacy Commissioner (OPC)"]
+            },
+            "hristchurch": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "20 working days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Privacy Act 2020"],
+                "Authorities": ["Office of the Privacy Commissioner (OPC)"]
+            },
+            "Dunedin": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "20 working days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Privacy Act 2020"],
+                "Authorities": ["Office of the Privacy Commissioner (OPC)"]
+            },
+            "Hamilton": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "20 working days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Privacy Act 2020"],
+                "Authorities": ["Office of the Privacy Commissioner (OPC)"]
+            },
+            "Tauranga": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "20 working days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Privacy Act 2020"],
+                "Authorities": ["Office of the Privacy Commissioner (OPC)"]
+            }
+        }
+    }
+}

@@ -1,0 +1,349 @@
+{
+    "Australia": 
+    {
+        "Laws": 
+        {
+            "Privacy Act 1988": 
+            {
+                "Description": "...",
+                "Jurisdiction": "Federal",
+                "Link": "https://www.legislation.gov.au/C2004A03712/latest/text"
+            }
+        },
+        "Authorities": 
+        {
+            "OAIC": 
+            {
+                "Description": "...",
+                "Link": "https://www.oaic.gov.au/"
+            }
+        },
+        "Resources":
+        {
+            
+        },
+        "Regions": 
+        {
+            "New South Wales": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Privacy Act 1988"],
+                "Authorities": ["OAIC"]
+            },
+            "Victoria": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Privacy Act 1988"],
+                "Authorities": ["OAIC"]
+            },
+            "Queensland": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Privacy Act 1988"],
+                "Authorities": ["OAIC"]
+            },
+            "South Australia": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Privacy Act 1988"],
+                "Authorities": ["OAIC"]
+            },
+            "Western Australia": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Privacy Act 1988"],
+                "Authorities": ["OAIC"]
+            },
+            "Tasmania": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Privacy Act 1988"],
+                "Authorities": ["OAIC"]
+            },
+            "Northern Territory": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Privacy Act 1988"],
+                "Authorities": ["OAIC"]
+            },
+            "Australian Capital Territory": 
+            {
+                "Rights": 
+                [
+                    {
+                        "Right": "Right to Access",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Rectification",
+                        "Timeframe": "30 days"
+                    },
+                    {
+                        "Right": "Right to Restrict Processing",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Data Portability",
+                        "Timeframe": "Reasonable period"
+                    },
+                    {
+                        "Right": "Right to Object",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Withdraw Consent",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to No Automated Decisions",
+                        "Timeframe": "Immediate"
+                    },
+                    {
+                        "Right": "Right to Information",
+                        "Timeframe": "At the time of collection"
+                    }
+                ],
+                "Laws": ["Privacy Act 1988"],
+                "Authorities": ["OAIC"]
+            }
+        }
+    }
+}
